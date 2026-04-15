@@ -145,4 +145,4 @@ MSc Computer Science (AI & Data Science)
 
 ## 📜 License
 
-This project is for academic and research purpos
+This project is for academic and research purposes.
